@@ -1,0 +1,5 @@
+1> have to deploy our application tonative app
+2>add Project button 
+3>remove the popups in the project page and should see a alternative solution for that
+4>Snowdq complete demo according to the samir video reference  like suits adding and removing.
+5> stored procedure for S3 bucket should be run same like adf.--will be provided by Samir
